@@ -1,0 +1,5 @@
+.vscode
+.ipynb_checkpoints
+.lp
+__pycache__
+optimization
