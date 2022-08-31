@@ -1,3 +1,3 @@
 # opti
 
-Small MILP and bruteforce solver for CSP verbal arithmetic puzzle. Check out [here](https://github.com/mariueng/opti/blob/main/main.ipynb).
+Small MILP and bruteforce solver for CSP verbal arithmetic puzzle. Check it out [here](https://github.com/mariueng/crispy-garbanzo/blob/main/main.ipynb).
